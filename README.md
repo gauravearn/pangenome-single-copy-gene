@@ -20,6 +20,9 @@ if [[ $(for i in *.fa; do grep ">" -c $i; done | head -n 1) == "${species}" ]]
         echo "files are all correct and the number of the species in all the files are present"
 fi
 ```
+Updated 2024-2-17
+added the support for all options and selected options and also added support for the multi-tool phylogeny. 
+
 Gaurav Sablok,\
 Academic Staff Member,\
 Bioinformatics,\
