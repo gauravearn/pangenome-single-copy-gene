@@ -5,7 +5,7 @@ a single copy gene analysis pangenome which allows for the orthology already com
 > Updated 2024-2-17
 added the support for all options and selected options and also added support for the multi-tool phylogeny. 
 
-Gaurav Sablok,\
+Gaurav, \
 Academic Staff Member,\
 Bioinformatics,\
 Institute for Biochemistry and Biology,\
